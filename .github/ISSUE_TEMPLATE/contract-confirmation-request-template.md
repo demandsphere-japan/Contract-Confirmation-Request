@@ -17,5 +17,5 @@ assignees: hirookamotods, MisatoTakahashi
 
 【備考】
 
-※岡本さんがAssigneeに入っていることを確認してください。
+※岡本さんと高橋さんがAssigneesに入っていることを確認してください。
 ※緊急度合いに応じてラベルを付けてください。
