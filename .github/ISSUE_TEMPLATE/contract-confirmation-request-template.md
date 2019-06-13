@@ -13,6 +13,8 @@ assignees: hirookamotods
 
 【印紙の必要性有無】
 
+【送り先の情報】
+
 【備考】
 
 ※岡本さんがAssigneeに入っていることを確認してください。
